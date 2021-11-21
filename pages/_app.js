@@ -2,7 +2,7 @@ import Head from 'next/head';
 
 import '../styles/globals.css';
 import Layout from '../components/layout/layout';
-
+// teste commit
 function MyApp({ Component, pageProps }) {
   return (
     <Layout>
